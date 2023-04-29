@@ -18,7 +18,7 @@ This code requires the following:
 Just run the script corresponding to the dataset you want. For instance:
 
 ```
-bash script/run_cora.sh
+bash scripts/amazon_train_0.4.sh
 ```
 
 ## Cite
